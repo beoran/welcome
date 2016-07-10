@@ -94,26 +94,27 @@ to develop it according to your own goals.
 
 ## DISCLAIMER
 
-With this text, we hope to welcome you to this project, however, it is merely 
-intent to inform you of how we wish to run this project. This FLOSS project
-run by volunteers, so we do not always have the resources to answer you
-or to help you in case of problems. We an only implement this on a best effort 
-basis.
+With this text, we hope to welcome you to this project, however, it is merely
+a statement of intent to inform you of how we wish to run this project. 
+It is in no way legally binding for anyone involved in the project. 
+This FLOSS project run by volunteers, so we do not always have the resources to 
+answer youor to help you in case of problems. We can only implement this 
+statement of intent on a best effort basis. We cannot guarantee that we will be 
+able to uphold the guidleines set out in this text. Therefore, your 
+participation to this project is subject to the following disclaimer:
 
-This text DOES NOT create a legally binding relationship between the 
-maintainer(s) and contributor(s) of this project and yourself, not even an 
-implicit one.
+YOUR PARTICIPATION IN THIS PROJECT IS AT YOUR OWN RISK. ANY EXPRESS OR IMPLIED 
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, 
+ARE DISCLAIMED. IN NO EVENT SHALL THE MAINTAINER(S) AND CONTRIBUTOR(S) OF THIS 
+PROJECT BE LIABLE FOR ANY DIRECT, INDIRECT INCIDENTAL, SPECIAL, EXEMPLARY, 
+OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF GOODWILL,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; 
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN  CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGECE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF YOUR PARTICIPATION IN THIS PROJECT, YOUR FAILURE, 
+OR YOUR BEING REJECTED FROM PARTICIPATION IT, EVEN IF ADVISED OF THE POSSIBILITY 
+OF SUCH DAMAGE. 
 
-THIS WELCOME.md TEXT PROVIDED BY THE MAINTAINER(S) AND CONTRIBUTOR(S) OF THIS PROJECT 
-``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
-THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
-OR NON-INFRINGEMENT, ARE DISCLAIMED. IN NO EVENT SHALL THE MAINTAINER(S) AND 
-CONTRIBUTOR(S) of this PROJECT BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT 
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, 
-OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE 
-OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS WELCOME.md text, EVEN IF 
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
