@@ -5,7 +5,7 @@
 We, the maintainer(s) and/or contributor(s), of this FLOSS project, welcome you 
 and thank you for your interest in it. This project is brought to you with the 
 hope that it will be useful to you, but without any warranty whatsoever. Please 
-read the LICENSE  for more details about this.
+read the LICENSE for more details about this.
 
 We welcome and appreciate contributions from everybody. By contributions we mean 
 code, documentation, art work, project outreach in form of setting up 
@@ -64,7 +64,7 @@ you should already obey anyway.
 
 If you feel that you or your contribution are not being treated fairly, 
 if you feel concerned about your personal safety, or if someone is engaged in 
-illegal behavior, contact the maintainer(s) of this project at <contact >.  
+illegal behavior, contact the maintainer(s) of this project at INSERT CONTACT ADDRESS HERE.  
 We will do our best to remedy the situation and respect your privacy.
 
 ## How to contribute 
@@ -97,10 +97,10 @@ to develop it according to your own goals.
 With this text, we hope to welcome you to this project, however, it is merely
 a statement of intent to inform you of how we wish to run this project. 
 It is in no way legally binding for anyone involved in the project. 
-This FLOSS project run by volunteers, so we do not always have the resources to 
-answer youor to help you in case of problems. We can only implement this 
+This FLOSS project is run by volunteers, so we do not always have the resources to 
+answer you or to help you in case of problems. We can only implement this 
 statement of intent on a best effort basis. We cannot guarantee that we will be 
-able to uphold the guidleines set out in this text. Therefore, your 
+able to uphold the guidlelines set out in this text. Therefore, your 
 participation to this project is subject to the following disclaimer:
 
 YOUR PARTICIPATION IN THIS PROJECT IS AT YOUR OWN RISK. ANY EXPRESS OR IMPLIED 
@@ -112,9 +112,6 @@ OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF GOODWILL,
 PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; 
 OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
 IN  CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGECE OR OTHERWISE) 
-ARISING IN ANY WAY OUT OF YOUR PARTICIPATION IN THIS PROJECT, YOUR FAILURE, 
-OR YOUR BEING REJECTED FROM PARTICIPATION IT, EVEN IF ADVISED OF THE POSSIBILITY 
-OF SUCH DAMAGE. 
-
-
-
+ARISING IN ANY WAY OUT OF YOUR PARTICIPATION IN THIS PROJECT, YOUR FAILURE 
+TO PARTICIPATE TO IT, OR YOUR BEING REJECTED FROM PARTICIPATION FROM IT, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
